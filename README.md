@@ -1,7 +1,6 @@
-- Mario
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
-## 🚀 About Me<br><br>🔭 I’m currently working on  <br>Building real-world React projects and improving my full-stack skills  <br><br>🤝 I’m looking to collaborate on  <br>Web development projects and startup ideas  <br><br>🆘 I’m looking for help with  <br>Advanced React, backend development, and freelancing  <br><br>🌱 I’m currently learning  <br>JavaScript, React, Python, SQL, and APIs  <br><br>💬 Ask me about  <br>Web development, starting in tech, and fitness discipline  <br><br>⚡ Fun fact  <br>From zero to building my tech career with a ₹100 Cr goal 🚀
+🚀 About Me<br><br>🔭 I’m currently working on  <br>Building real-world React projects and improving my full-stack skills  <br><br>🤝 I’m looking to collaborate on  <br>Web development projects and startup ideas  <br><br>🆘 I’m looking for help with  <br>Advanced React, backend development, and freelancing  <br><br>🌱 I’m currently learning  <br>JavaScript, React, Python, SQL, and APIs  <br><br>💬 Ask me about  <br>Web development, starting in tech, and fitness discipline  <br><br>⚡ Fun fact  <br>From zero to building my tech career with a ₹100 Cr goal 🚀
 
 
 ## 🌐 Socials:
